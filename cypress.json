@@ -1,7 +1,7 @@
 {
   "video": false,
   "projectId": "385dvu",
-  "watchForFileChanges":false,
+  "watchForFileChanges":true,
   "viewportWidth": 1000,
   "viewportHeight": 600,
   "waitForAnimations": true,
