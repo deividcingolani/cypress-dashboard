@@ -11,13 +11,13 @@ pipeline {
 
     stage('Install dependencies') {
         steps {
-            sh 'npm install'
+            sh 'npm ci'
         }
     }
 
     stage('Test Cypress') {
        steps {
-             sh 'npm run cy:run'
+             sh 'npm run $script'
        }
     }
   }
