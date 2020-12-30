@@ -15,3 +15,5 @@
   "failOnStatusCode": false
 }
 
+
+npx cypress run --spec "cypress/integration/api.spec.js"

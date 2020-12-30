@@ -11,7 +11,9 @@
   "pageLoadTimeout": 60000,
   "requestTimeout": 15000,
   "responseTimeout": 15000,
-  "failOnStatusCode": false
+  "failOnStatusCode": false,
+  "theme": "dark",
+  "darkMediaQuery": true
 }
 
 
