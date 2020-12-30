@@ -12,7 +12,6 @@
   "requestTimeout": 15000,
   "responseTimeout": 15000,
   "failOnStatusCode": false,
-  "ignoreTestFiles"
 }
 
 
